@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="renshi:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/renshi_jar</output-path>
-    <root id="archive" name="renshi.jar">
-      <element id="module-output" name="renshi" />
-    </root>
-  </artifact>
-</component>
